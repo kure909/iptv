@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HU" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/animal-planet-de.png" group-title="Hungary",Animal Planet HU
-http://client.iamsafe.cc:8080/AG8uVhqlI9/VlYxbKRWjy/9518
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Live HD ARB" tvg-logo="" group-title="Arab Countries VIP",Shahid VIP Live HD ARB
 http://client.iamsafe.cc:8080/AG8uVhqlI9/VlYxbKRWjy/101750
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Series 1 HD ARB" tvg-logo="" group-title="Arab Countries VIP",Shahid Series 1 HD ARB
